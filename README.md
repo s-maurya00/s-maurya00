@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-maurya00
-- 👀 I’m interested in solving some basic problems available on github
-- 🌱 I’m currently learning python
+- 👀 I’m ...
+- 🌱 I’m currently learning ...
 - 📫 How to reach me - You may contact me on twitter handle - s_maurya00
 
 <!---
