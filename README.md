@@ -32,17 +32,20 @@
         </li>
         <li type="none">
             - 📚 &nbsp; Most of my work are available in
-            <a href="https://github.com/s-maurya00?tab=repositories">GitHub</a>
+            <a href="https://github.com/s-maurya00?tab=repositories"
+                ><b>GitHub</b></a
+            >
         </li>
         <li type="none">
             - 📫 &nbsp; Feel free to ping me on
-            <a href="https://www.linkedin.com/in/s-maurya00/">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/s-maurya00/"
+                ><b>LinkedIn</b></a
+            >
         </li>
     </p>
 </div>
-<br />
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
     <a href="https://linkedin.com/in/s_maurya00" target="blank"
         ><img
@@ -62,6 +65,15 @@
             width="40"
     /></a>
     &nbsp;
+    <a href="https://www.leetcode.com/s_maurya00" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="s_maurya00"
+            height="30"
+            width="40"
+    /></a>
+    &nbsp;
     <a href="https://www.codechef.com/users/s_maurya00" target="blank"
         ><img
             align="center"
@@ -71,16 +83,8 @@
             width="40"
             style="color: white"
     /></a>
-    &nbsp;
-    <a href="https://www.leetcode.com/s_maurya00" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="s_maurya00"
-            height="30"
-            width="40"
-    /></a>
 </p>
+<br />
 
 <div>
     <img
