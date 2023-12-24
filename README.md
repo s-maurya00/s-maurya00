@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://your-travel-avatar-url.com/adventurous-pic.jpg" alt="Your Travel Avatar" width="200">
+  <img src="https://my-travel-avatar-url.com/adventurous-pic.jpg" alt="My Travel Avatar" width="200">
 </p>
 
 # ✈️ Voyager & Code Alchemist 💻
 
 ## Ahoy World! 👋
 
-I'm Sushil Maurya, a coding wizard with a passion for transforming ideas into digital adventures. When my fingers aren't dancing on the keyboard, they're busy snapping pictures at some remote corner of the world.
+I'm Sushil Maurya, a coding wizard with a passion for transforming ideas into digital adventures. When my fingers aren't dancing on the keyboard, they're busy exploring the enchanting realms of anime.
 
 ## Code Map 🗺️
 
@@ -31,7 +31,7 @@ coder = Programmer(
 print(coder.embark_journey())
 ```
 
-## 🌠 Interstellar Skill Set
+## Interstellar Skill Set 🌠
 
 ```bash
 const skills = {
@@ -63,7 +63,7 @@ const skills = {
     />
 </div>
 
-## Github Streak
+## Github Streak 📈
 
 <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=s-maurya00&theme=tokyonight&hide_border=true"
