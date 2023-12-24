@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://my-travel-avatar-url.com/adventurous-pic.jpg" alt="My Travel Avatar" width="200">
+  <img src="https://raw.githubusercontent.com/s-maurya00/s-maurya00/master/images/GitHub_banner.PNG" alt="My GitHub banner">
 </p>
 
 # ✈️ Voyager & Code Alchemist 💻
 
-## Ahoy World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+## Ahoy World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 I'm Sushil Maurya, a coding wizard with a passion for transforming ideas into digital adventures. When my fingers aren't dancing on the keyboard, they're busy exploring the enchanting realms of anime.
 
