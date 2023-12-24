@@ -4,7 +4,7 @@
 
 # ✈️ Voyager & Code Alchemist 💻
 
-## Ahoy World! 👋
+## Ahoy World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 I'm Sushil Maurya, a coding wizard with a passion for transforming ideas into digital adventures. When my fingers aren't dancing on the keyboard, they're busy exploring the enchanting realms of anime.
 
@@ -72,50 +72,8 @@ const skills = {
 
 
 ## Let's Connect Across the Digital Horizon 🌐
-<!---
-<p align="left">
-    <a href="https://linkedin.com/in/s_maurya00" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="s_maurya00"
-            height="30"
-            width="40"
-    /></a>
-    &nbsp;
-    <a href="https://instagram.com/s_maurya00" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="s_maurya00"
-            height="30"
-            width="40"
-    /></a>
-    &nbsp;
-    <a href="https://www.leetcode.com/s_maurya00" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="s_maurya00"
-            height="30"
-            width="40"
-    /></a>
-    &nbsp;
-    <a href="https://www.codechef.com/users/s_maurya00" target="blank"
-        ><img
-            align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-            alt="s_maurya00"
-            height="30"
-            width="40"
-            style="color: white"
-    /></a>
-</p>
-<br />
---->
 
-
-- 📧 Email: mauryasushil045@gmail.com
-- 💼 LinkedIn: @s-maurya00
+[<img src="https://raw.githubusercontent.com/s-maurya00/s-maurya00/master/socials/gmail.png" height="40em" align="center" alt="Email me !!!" title="Email me !!!"/>](mailto:s.maurya.secondary@gmail.com)
+&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/s-maurya00/s-maurya00/master/socials/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn :)" title="Follow me on LinkedIn :)"/>](https://www.linkedin.com/in/s-maurya00/)
 
 Feel free to share your coding expeditions, travel stories, or discuss the tech wonders you've encountered on your journey. Let's code and explore the digital world together! 🌍✨
